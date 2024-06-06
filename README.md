@@ -1,6 +1,6 @@
 # Hueword Solver
 
-This program uses constraint programming to solve the game [Huewords](https://huewords.snellman.net/). This game was discussed on HN [here](https://news.ycombinator.com/item?id=40571463). This Huewords solver was discussed on HN [here](https://news.ycombinator.com).
+This program uses constraint programming to solve the game [Huewords](https://huewords.snellman.net/). This game was discussed on HN [here](https://news.ycombinator.com/item?id=40571463). This Huewords solver was discussed on HN [here](https://news.ycombinator.com/item?id=40592269).
 
 ## Installation
 
